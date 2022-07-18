@@ -1,0 +1,80 @@
+1  
+2  
+3  
+4   customField: 'Example custom field',
+5  
+6  
+7   otherCustomField: 'This example field is really cool'
+8 
+9 
+10 }
+11 
+12 
+13 
+14 
+15 
+16 module.exports = {
+17   customField: 'Example custom field',
+18   otherCustomField: 'This example field is really cool'
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 }
+27 
+28 
+29 v
+30 v
+31 
+32 
+33 module.exports = {
+34   customField: 'Example custom field',
+35 
+36 
+37   otherCustomField: 'This example field is really cool'
+38 
+39 
+40 
+41 }
+42 
+43 module.exports = {
+44   customField: 'Example custom field',
+45   otherCustomField: 'This example field is really cool'
+46 }
+47 
+48 
+49 module.exports = {
+50   customField: 'Example custom field',
+51   otherCustomField: 'This example field is really cool'
+52 
+53 }
+54 
+55 
+56 module.exports = {
+57   customField: 'Example custom field',
+58 
+59   otherCustomField: 'This example field is really cool'
+60 
+61 
+62 
+63 
+64 }
+65 
+66 module.exports = {
+67 
+68   customField: 'Example custom field',
+69 
+70   otherCustomField: 'This example field is really cool'
+71 }
+72 module.exports = {
+73 
+74 
+75   customField: 'Example custom field',
+76   otherCustomField: 'This example field is really cool'
+77 }
+78 
+79 
+80 undefined
